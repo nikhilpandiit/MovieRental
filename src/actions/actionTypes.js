@@ -1,0 +1,14 @@
+export const GET_ALL_GENRES = "GET_ALL_GENRES";
+export const DELETE_GENRE = "DELETE_GENRE";
+export const ADD_GENRE = "ADD_GENRE";
+export const UPDATE_GENRE = "UPDATE_GENRE";
+export const GET_ALL_MOVIES = "GET_ALL_MOVIES";
+export const DELETE_MOVIE = "DELETE_MOVIE";
+export const ADD_MOVIE = "ADD_MOVIE";
+export const UPDATE_MOVIE = "UPDATE_MOVIE";
+export const REGISTER_USER = "REGISTER_USER";
+export const LOGIN_USER = "LOGIN_USER";
+export const GET_ALL_CUSTOMERS = "GET_ALL_CUSTOMERS";
+export const ADD_CUSTOMER = "ADD_CUSTOMER";
+export const DELETE_CUSTOMER = "DELETE_CUSTOMER";
+export const UPDATE_CUSTOMER = "UPDATE_CUSTOMER";
